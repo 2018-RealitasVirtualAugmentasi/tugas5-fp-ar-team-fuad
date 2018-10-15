@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 90
+  controlID: 103
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 104
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 92
+  controlID: 105
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,20 +323,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\kuliah\RVA\tugas5-fp-ar-team-fuad\Voice Recognition
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 22330000
-    m_LastClickedID: 13090
-    m_ExpandedIDs: 000000002233000000ca9a3b
+    m_SelectedIDs: 6a2c0000
+    m_LastClickedID: 11370
+    m_ExpandedIDs: 00000000822b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -352,7 +352,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000822b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,9 +480,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9242ffff
-    m_LastClickedID: -48494
-    m_ExpandedIDs: 9242ffff7cecffff00000000
+    m_SelectedIDs: 4058ffff
+    m_LastClickedID: -42944
+    m_ExpandedIDs: 0cbfffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,14 +532,14 @@ MonoBehaviour:
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 5125.428666074451
+  lastFramingTime: 173.02754127178588
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -330.8961, y: 909.03613, z: 5864.291}
+    m_Target: {x: 371.10828, y: 158.0574, z: -243.33453}
     speed: 2
-    m_Value: {x: -330.8961, y: 909.03613, z: 5864.291}
+    m_Value: {x: 371.10828, y: 158.0574, z: -243.33453}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -567,13 +567,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0015580029, y: 0.9858267, z: -0.16750918, w: 0.009169458}
+    m_Target: {x: 0.027306603, y: -0.0015042203, z: 0.000041001767, w: 0.999626}
     speed: 2
-    m_Value: {x: 0.0015580029, y: 0.9858267, z: -0.16750918, w: 0.009169458}
+    m_Value: {x: 0.027306603, y: -0.0015042203, z: 0.000041001767, w: 0.999626}
   m_Size:
-    m_Target: 1336.8951
+    m_Target: 268.12564
     speed: 2
-    m_Value: 1336.8951
+    m_Value: 268.12564
   m_Ortho:
     m_Target: 0
     speed: 2
