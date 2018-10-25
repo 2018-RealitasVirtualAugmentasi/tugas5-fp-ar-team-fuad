@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/unity-sdk-develop/Examples/ServiceExamples/ExampleStreaming.unity
+- path: Assets/unity-sdk-develop 1/Examples/ServiceExamples/ExampleStreaming.unity
   isLoaded: 1
   isActive: 1
