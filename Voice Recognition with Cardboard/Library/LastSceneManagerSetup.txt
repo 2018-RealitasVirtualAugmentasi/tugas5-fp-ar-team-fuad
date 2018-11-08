@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/untilted.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/unity-sdk-develop/Examples/ServiceExamples/ExampleStreaming.unity
+  isLoaded: 1
+  isActive: 0
